@@ -1,0 +1,1 @@
+C:\Belatrix.JobLogger\Belatrix.JobLogger.Client\bin\Debug\Belatrix.JobLogger.Client.exe.config
